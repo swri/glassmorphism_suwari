@@ -45,7 +45,7 @@ How to use:
 
 1 List satu
  
-_2 List dua
+_2 List dua_
 
 ## Additional information
 
