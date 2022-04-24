@@ -20,7 +20,7 @@ This package have card with glassmorphism mode
 ## Usage
 
 How to use:
-    1. _Copy the link github:
+    1. [Copy the link github:]
         https://github.com/swri/glassmorphism_suwari.git
     2. _Put link in pubspec.yaml
         ```dart
