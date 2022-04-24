@@ -18,11 +18,6 @@ This package is glassmorphism for flutter application.
 This package have card with glassmorphism mode
 
 ## Usage
-
-How to use:
-    1. _Copy the link github:_
-        https://github.com/swri/glassmorphism_suwari.git
-    2. _Put link in pubspec.yaml_
 ```
         dependencies:
             flutter:
