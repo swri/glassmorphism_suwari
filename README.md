@@ -20,12 +20,12 @@ This package have card with glassmorphism mode
 ## Usage
 ```
 dependencies:
-        flutter:
-                sdk: flutter
-        glassmorphism_suwari:
-                git:
-                        url: https://github.com/swri/glassmorphism_suwari.git
-                        ref: main
+  flutter:
+    sdk: flutter
+  glassmorphism_suwari:
+    git:
+      url: https://github.com/swri/glassmorphism_suwari.git
+      ref: main
 ```
 
 ## Additional information
