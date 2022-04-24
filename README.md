@@ -20,6 +20,7 @@ This package have card with glassmorphism mode
 ## Usage
 
 How to use:
+<ol><li>1. List satu</li><li>2. List dua</li></ol>
     1.  Copy the link github:
         https://github.com/swri/glassmorphism_suwari.git
     2. Put link in pubspec.yaml
