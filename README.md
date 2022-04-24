@@ -22,8 +22,8 @@ This package have card with glassmorphism mode
 How to use:
 <ol>
     <li>
-        Copy the link github:
-            https://github.com/swri/glassmorphism_suwari.git
+        
+           
     </li>
     <li>
         Put link in pubspec.yaml
@@ -43,7 +43,8 @@ How to use:
     </li>
 </ol>
 
-1 List satu
+_Copy the link github:_
+     https://github.com/swri/glassmorphism_suwari.git
  
 _2 List dua_
 
