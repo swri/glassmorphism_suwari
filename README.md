@@ -20,12 +20,8 @@ This package have card with glassmorphism mode
 ## Usage
 
 How to use:
-<ol>
-    <li>
-        
-           
-    </li>
-    <li>
+    _Copy the link github:_
+        https://github.com/swri/glassmorphism_suwari.git
         Put link in pubspec.yaml
 ```
         dependencies:
@@ -36,17 +32,9 @@ How to use:
                     url: https://github.com/swri/glassmorphism_suwari.git
                     ref: main
 ```
-    </li>
-    <li>
         save and import
         done
-    </li>
-</ol>
 
-_Copy the link github:_
-     https://github.com/swri/glassmorphism_suwari.git
- 
-_2 List dua_
 
 ## Additional information
 
