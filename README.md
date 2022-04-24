@@ -20,10 +20,13 @@ This package have card with glassmorphism mode
 ## Usage
 
 How to use:
-<ol><li>1. List satu</li><li>2. List dua</li></ol>
-    1.  Copy the link github:
-        https://github.com/swri/glassmorphism_suwari.git
-    2. Put link in pubspec.yaml
+<ol>
+    <li>
+        1.  Copy the link github:
+            https://github.com/swri/glassmorphism_suwari.git
+    </li>
+    <li>
+        Put link in pubspec.yaml
         ```
         dependencies:
             flutter:
@@ -33,8 +36,12 @@ How to use:
                     url: https://github.com/swri/glassmorphism_suwari.git
                     ref: main
         ```
-    3. save and import
+    </li>
+    <li>
+        save and import
         done
+    </li>
+</ol>
 
 ## Additional information
 
