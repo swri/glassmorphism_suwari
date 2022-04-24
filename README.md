@@ -22,12 +22,12 @@ This package have card with glassmorphism mode
 How to use:
 <ol>
     <li>
-        1.  Copy the link github:
+        Copy the link github:
             https://github.com/swri/glassmorphism_suwari.git
     </li>
     <li>
         Put link in pubspec.yaml
-        ```
+```
         dependencies:
             flutter:
                 sdk: flutter
@@ -35,13 +35,15 @@ How to use:
                 git:
                     url: https://github.com/swri/glassmorphism_suwari.git
                     ref: main
-        ```
+```
     </li>
     <li>
         save and import
         done
     </li>
 </ol>
+
+1 List satu
 
 ## Additional information
 
