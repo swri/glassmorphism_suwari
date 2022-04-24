@@ -19,7 +19,7 @@ This package have card with glassmorphism mode
 
 ## Usage
 
-How to use:\n
+How to use:
     1. Copy the link github:
         https://github.com/swri/glassmorphism_suwari.git
     2. Put link in pubspec.yaml
