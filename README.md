@@ -43,9 +43,9 @@ How to use:
     </li>
 </ol>
 
- 1 List satu
+1 List satu
  
- 2 List dua
+2 List dua
 
 ## Additional information
 
