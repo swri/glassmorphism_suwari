@@ -11,29 +11,30 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package is glassmorphism for flutter application.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+This package have card with glassmorphism mode
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
+How to use:
+    1. Copy the link github:
+        https://github.com/swri/glassmorphism_suwari.git
+    2. Put link in pubspec.yaml
+        ```dart
+        dependencies:
+            flutter:
+                sdk: flutter
+            glassmorphism_suwari:
+                git:
+                    url: https://github.com/swri/glassmorphism_suwari.git
+                    ref: main
+        ```
+    3. save and import
+        done
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+Free to use
