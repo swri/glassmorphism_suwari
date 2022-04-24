@@ -20,9 +20,9 @@ This package have card with glassmorphism mode
 ## Usage
 
 How to use:
-    1. Copy the link github:
+    1. _Copy the link github:
         https://github.com/swri/glassmorphism_suwari.git
-    2. Put link in pubspec.yaml
+    2. _Put link in pubspec.yaml
         ```dart
         dependencies:
             flutter:
@@ -32,8 +32,8 @@ How to use:
                     url: https://github.com/swri/glassmorphism_suwari.git
                     ref: main
         ```
-    3. save and import
-        done
+    3. _save and import
+        _done
 
 ## Additional information
 
